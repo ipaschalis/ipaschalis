@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ipaschalis
-- 👀 I’m interested in Computers and theology.
-- 🌱 I’m currently learning Computer Science.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m @ipaschalis
+- I’m interested in Computers, art and theology.
+- I’m currently studing Computer Science at the International Hellenic University. 
+- How to reach me: instagram: @ipaschalis
 
 <!---
 ipaschalis/ipaschalis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
